@@ -1,16 +1,8 @@
 <h2 align="center">👋 Hello, I'm TLEphage.</h2>
 
-<h3 align="center">📊 My GitHub Stats</h3>
+[![TLEphage's GitHub stats](https://github-readme-stats.vercel.app/api?username=TLEphage&count_private=true&show_icons=true)](https://github.com/TLEphage/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TLEphage)](https://github.com/TLEphage/github-readme-stats) 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TLEphage&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="TLEphage's GitHub stats" />
-</p>
-
-<h3 align="center">💻 My Top Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLEphage&layout=compact&langs_count=10&theme=transparent" alt="TLEphage's Top Languages" />
-</p>
 <div id="title" align=center>
 
 [![github](https://img.shields.io/badge/github-TLEphage-purple?logo=github)](https://github.com/TLEphage)
