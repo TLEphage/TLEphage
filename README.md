@@ -1,5 +1,7 @@
 <h2 align="center">👋 Hello, I'm TLEphage.</h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TLEphage)](https://github.com/TLEphage/github-readme-stats)
+
 <p align="center">
 <img height="195" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLEphage&layout=compact&exclude_repo=backup-pages,TLEphage.github.io,OI-Library&langs_count=8&hide=html" />
 
