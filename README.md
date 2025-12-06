@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <td colspan="3" align="center">
       <a href="https://github.com/TLEphage/TLEphage">
         <picture>
-          <img src="image/shuvi.png" width="400" />
+          <img src="image/shuvi.png" width="600" />
         </picture>
       </a>
     </td>
