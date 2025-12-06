@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   <tr>
     <td colspan="3" align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/TLEphage/TLEphage">
         <picture>
           <img src="image/shuvi.png" width="400" />
         </picture>
