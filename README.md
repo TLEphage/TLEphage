@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 <h2 align="center">👋 Hello! I'm TLEphage.</h2>
 
-<table width="100%" align="center" cellpadding="0" cellspacing="0">
+<table width="100%" align="center">
 
   <tr>
-    <td colspan="3" align="center" style="height: 180px; padding: 2px;">
+    <td colspan="3" align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <picture>
-          <img src="image/shuvi.png" width="300" />
+          <img src="image/shuvi.png" width="400" />
         </picture>
       </a>
     </td>
-    <td colspan="3" align="center" style="height: 180px; padding: 2px;">
+    <td colspan="3" align="center">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
         <picture>
           <source
@@ -43,55 +43,43 @@ Here are some ideas to get you started:
   </tr>
 
   <tr>
-    <td colspan="2" align="center" style="height: 200px; padding: 2px;">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <picture>
-          <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TLEphage&border_color=000000&bg_color=transparent&theme=nord_dark"
-            media="(prefers-color-scheme: dark)" />
-          <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TLEphage&border_color=000000&bg_color=transparent&theme=nord_bright"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img 
-            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TLEphage&border_color=000000&bg_color=transparent" 
-            style="height: 100%; width: auto; display: block;" />
-        </picture>
-      </a>
-    </td>
-    <td colspan="2" align="center" style="height: 200px; padding: 2px;">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <picture>
-          <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TLEphage&border_color=000000&bg_color=transparent&theme=nord_dark"
-            media="(prefers-color-scheme: dark)" />
-          <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TLEphage&border_color=000000&bg_color=transparent&theme=nord_bright"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img 
-            src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TLEphage&border_color=000000&bg_color=transparent" 
-            style="height: 100%; width: auto; display: block;" />
-        </picture>
-      </a>
-    </td>
-    <td colspan="2" align="center" style="height: 200px; padding: 2px;">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <picture>
-          <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TLEphage&utcOffset=8&border_color=000000&bg_color=transparent&theme=nord_dark"
-            media="(prefers-color-scheme: dark)" />
-          <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TLEphage&utcOffset=8&border_color=000000&bg_color=transparent&theme=nord_bright"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img 
-            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TLEphage&utcOffset=8&border_color=000000&bg_color=transparent" 
-            style="height: 100%; width: auto; display: block;" />
-        </picture>
-      </a>
-    </td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=TLEphage&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=TLEphage&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=TLEphage&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=TLEphage&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=TLEphage&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=TLEphage&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=TLEphage&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=TLEphage&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=TLEphage&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </a></td>
   </tr>
 
   <!-- <tr>
-    <td colspan="6" align="center" style="height: 120px; padding: 2px;">
+    <td colspan="6" align="center" style="height: 120px; padding: 0px;">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <picture>
           <source
